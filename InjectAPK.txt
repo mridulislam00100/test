@@ -1,0 +1,11 @@
+
+sudo apt update
+sudo apt install git
+https://github.com/mridulislam00100/test.git
+cd InjectAPK
+sudo chmod +x Injectapk.sh
+./Injectapk.sh
+```
+
+
+
